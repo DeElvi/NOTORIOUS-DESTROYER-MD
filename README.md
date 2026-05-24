@@ -7,7 +7,7 @@
 </div> 
 
 <div align="center"> 
-  <img width="300" height="240" alt="2Crrd" src="https://github.com/user-attachments/assets/cce04086-3fae-4ef3-8814-6435b2c35313" />
+  <img width="300" height="270" alt="2Crrd" src="https://github.com/user-attachments/assets/cce04086-3fae-4ef3-8814-6435b2c35313" />
 
 </div>
 
