@@ -29,7 +29,7 @@
 > DEPLOY NOTORIOUS DESTROYER
 <div align="center">    
   <a href="https://dashboard.heroku.com/new?template=https://github.com/DeElvi/NOTORIOUS-DESTROYER-MD">
-    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple" alt="Deploy NOTORIOUS"/>
+    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=🥗" alt="Deploy NOTORIOUS"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 > NOTORIOUS DESTROYER SESSION PAIRING
 <p align="center">
   <a href="https://pair-ultraxbot-7ae44156c680.herokuapp.com/pair" target="_blank">
-    <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+    <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red"/>
   </a>
 </p>
 
