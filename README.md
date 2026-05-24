@@ -29,7 +29,7 @@
 > DEPLOY NOTORIOUS DESTROYER
 <div align="center">    
   <a href="https://dashboard.heroku.com/new?template=https://github.com/DeElvi/NOTORIOUS-DESTROYER-MD">
-    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=🥗" alt="Deploy NOTORIOUS"/>
+    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=green" alt="Deploy NOTORIOUS"/>
   </a>
 </div>
 
