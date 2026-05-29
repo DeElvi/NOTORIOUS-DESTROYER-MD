@@ -37,7 +37,7 @@
 
 > NOTORIOUS DESTROYER SESSION PAIRING
 <p align="center">
-  <a href="https://pair-notorious-7ae44156c680.herokuapp.com/pair" target="_blank">
+  <a href="https://pair-ultraxbot-7ae44156c680.herokuapp.com/pair" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red"/>
   </a>
 </p>
